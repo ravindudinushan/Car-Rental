@@ -39,5 +39,4 @@ Contact
 
 Footer
 <img width="1394" alt="Screenshot 2024-03-04 at 19 14 10" src="assets/MyPortfolio/Screenshot 2024-09-01 223703.png">
-<img width="1394" alt="Screenshot 2024-03-04 at 19 14 10" src="assets/MyPortfolio/Screenshot 2024-09-01 223717.png">
 

@@ -1,5 +1,5 @@
 # Car Rental Web Site
-<img width="1394" alt="Screenshot 2024-03-04 at 18 59 14" src="assets/MyPortfolio/Screenshot 2024-09-01 223427.png">
+<img width="1394" alt="Screenshot 2024-03-04 at 18 59 14" src="assets/CarRental/Screenshot 2024-09-17 165810.png">
 
 # 👨🏻‍💻 Technology & Frameworks
 <ul>
@@ -14,16 +14,16 @@ GitHub Pages : https://ravindudinushan.github.io/Car-Rental/
 
 # Preview
 Home
-<img width="1394" alt="Screenshot 2024-03-04 at 18 59 14" src="assets/MyPortfolio/Screenshot 2024-09-01 223427.png">
+<img width="1394" alt="Screenshot 2024-03-04 at 18 59 14" src="assets/CarRental/Screenshot 2024-09-17 165855.png">
 
-About Me
-<img width="1394" alt="Screenshot 2024-03-04 at 19 12 07" src="assets/MyPortfolio/Screenshot 2024-09-01 223444.png">
+Cars
+<img width="1394" alt="Screenshot 2024-03-04 at 19 12 07" src="assets/CarRental/Screenshot 2024-09-17 165931.png">
 
-My Services
-<img width="1394" alt="Screenshot 2024-03-04 at 19 12 18" src="assets/MyPortfolio/Screenshot 2024-09-01 223505.png">
+Rent
+<img width="1394" alt="Screenshot 2024-03-04 at 19 12 18" src="assets/CarRental/Screenshot 2024-09-17 165956.png">
 
-My Skills
-<img width="1394" alt="Screenshot 2024-03-04 at 19 12 29" src="assets/MyPortfolio/Screenshot 2024-09-01 223517.png">
+Pick Cars
+<img width="1394" alt="Screenshot 2024-03-04 at 19 12 29" src="assets/CarRental/Screenshot 2024-09-17 170023.png">
 
 My Certificates
 <img width="1394" alt="Screenshot 2024-03-04 at 19 12 39" src="assets/MyPortfolio/Screenshot 2024-09-01 223532.png">

@@ -31,11 +31,11 @@ Stories
 Brands
 <img width="1394" alt="Screenshot 2024-03-04 at 19 12 49" src="assets/CarRental/Screenshot 2024-09-17 170056.png">
 
-My Assignments
-<img width="1394" alt="Screenshot 2024-03-04 at 19 12 58" src="assets/MyPortfolio/Screenshot 2024-09-01 223617.png">
+App
+<img width="1394" alt="Screenshot 2024-03-04 at 19 12 58" src="assets/CarRental/Screenshot 2024-09-17 170108.png">
 
-Contact Me
-<img width="1394" alt="Screenshot 2024-03-04 at 19 14 10" src="assets/MyPortfolio/Screenshot 2024-09-01 223644.png">
+Contact
+<img width="1394" alt="Screenshot 2024-03-04 at 19 14 10" src="assets/CarRental/Screenshot 2024-09-17 170117.png">
 
 Footer
 <img width="1394" alt="Screenshot 2024-03-04 at 19 14 10" src="assets/MyPortfolio/Screenshot 2024-09-01 223703.png">

@@ -25,7 +25,7 @@ Rent
 Pick Cars
 <img width="1394" alt="Screenshot 2024-03-04 at 19 12 29" src="assets/CarRental/Screenshot 2024-09-17 170023.png">
 
-My Certificates/
+My Certificates
 <img width="1394" alt="Screenshot 2024-03-04 at 19 12 39" src="assets/MyPortfolio/Screenshot 2024-09-01 223532.png">
 
 My Projects

@@ -10,7 +10,7 @@
 
 # Deployment
 
-GitHub Pages : https://ravindudinushan.github.io/MyPortfolio/
+GitHub Pages : https://ravindudinushan.github.io/Car-Rental/
 
 # Preview
 Home

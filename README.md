@@ -28,7 +28,7 @@ Pick Cars
 Stories
 <img width="1394" alt="Screenshot 2024-03-04 at 19 12 39" src="assets/CarRental/Screenshot 2024-09-17 170040.png">
 
-Brands
+Brand
 <img width="1394" alt="Screenshot 2024-03-04 at 19 12 49" src="assets/CarRental/Screenshot 2024-09-17 170056.png">
 
 My Assignments
